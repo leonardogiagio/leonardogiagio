@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello! My name is Leonardo, I am <strong>Fullstack Developer</strong>.<br>
+  Hello! My name is Leonardo, I'm studying to be <strong>Fullstack Developer</strong>.<br>
   I am starting in the dev career, studying Information Systems and currently working as a support and dev.
 </p>
 
