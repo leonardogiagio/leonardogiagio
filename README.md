@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>PyCharm, Visual Studio Code, Figma, Netlify, Git and GitHub, HeidiSQL.</strong>
+  💼 Tools: <strong>PyCharm, Visual Studio Code, Figma, Netlify, Git and GitHub, HeidiSQL, brModelo.</strong>
 </p>
 
 <p align="left">
