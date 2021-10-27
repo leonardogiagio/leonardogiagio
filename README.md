@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Python, HTML5, CSS3, JavaScript, Sass, Bootstrap, BulmaCSS, Materialize, MySQL.</strong>
+  🦄 Skills: <strong>PHP, Python, HTML5, CSS3, JavaScript, Sass, Bootstrap, BulmaCSS, Materialize, MySQL.</strong>
 </p>
 
 <p align="left">
