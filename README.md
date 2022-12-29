@@ -1,29 +1,35 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## 🖖🏻 Hello World! Eu sou Leonardo Giagio e esse é meu perfil Profissional! :crystal_ball:
 
-<p align="left"> 
-  Hello! My name is Leonardo, I'm studying to be <strong>Fullstack Developer</strong>.<br>
-  I am starting in the dev career, studying Information Systems and currently working as a support and dev.
-</p>
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/leonardogiagio)](https://github.com/leonardogiagio)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-giagio/)](https://www.linkedin.com/in/leonardo-giagio/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leo_giagio)](https://www.instagram.com/leo_giagio)
 
-<p align="left">
-  🦄 Skills: <strong>PHP, Python, HTML5, CSS3, JavaScript, Sass, Bootstrap, BulmaCSS, Materialize, MySQL.</strong>
-</p>
 
-<p align="left">
-  💼 Tools: <strong>PyCharm, Visual Studio Code, Figma, Netlify, Git and GitHub, HeidiSQL, brModelo.</strong>
-</p>
+## 📣 Sobre mim
 
-<p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
-</p>
+Quem é Leonardo?
 
-<p align="left">
-  <a href="https://www.instagram.com/leo_giagio/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-  
-  <a href="https://www.linkedin.com/in/leonardo-giagio/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+Atuo como Desenvolvedor Web Full Stack e sou apaixonado pelo que faço e tecnologias em geral. Sempre busco me manter atualizado nas que já conheço e também conhecer novas tecnologias e ferramentas que agreguem no meu trabalho e resolvam meus problemas e dos clientes.
 
-  <a href="https://www.facebook.com/leonardo.giagio.3/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
-</p>  
+
+## 👩🏻‍💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogiagio&layout=compact&theme=radical)](https://github.com/leonardogiagio/github-readme-stats)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Wordpress](https://img.shields.io/badge/wordpress-323330?style=for-the-badge&logo=wordpress&logoColor=blue)
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue)
+![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
+![MYSQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=blue)
+![POSTGRESQL](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
+
+## :gear: &nbsp;GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogiagio&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardogiagio&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## 👦🏻 Curiosidades
+- 🔭 Atualmente estou trabalhando como Dev Full Stack (PHP, SQL SERVER, Vue);
+- 🌱 Estou estudando React e Node simultâneamente;
+- ⚡ Amo animais, vídeo games, leitura e futebol.
