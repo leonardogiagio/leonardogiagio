@@ -26,7 +26,7 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ## :gear: &nbsp;GitHub Analytics
-![Anurag's GitHub stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leonardogiagio&show_icons=true&theme=tokyonight])
+[![Anurag's GitHub stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leonardogiagio&show_icons=true&theme=tokyonight)]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardogiagio&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
