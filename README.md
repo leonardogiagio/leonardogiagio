@@ -9,7 +9,7 @@
 
 Quem é Leonardo?
 
-Atuo como Desenvolvedor Web Full Stack e sou apaixonado pelo que faço e tecnologias em geral. Sempre busco me manter atualizado nas que já conheço e também conhecer novas tecnologias e ferramentas que agreguem no meu trabalho e resolvam meus problemas e dos clientes.
+Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias em geral. Sempre busco me manter atualizado nas que já conheço e também conhecer novas tecnologias e ferramentas que agreguem no meu trabalho e resolvam meus problemas e dos clientes.
 
 
 ## 👩🏻‍💻 Most Used Languages
