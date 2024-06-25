@@ -19,7 +19,6 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Wordpress](https://img.shields.io/badge/wordpress-323330?style=for-the-badge&logo=wordpress&logoColor=blue)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
 ![MYSQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=blue)
@@ -30,6 +29,6 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardogiagio&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
-- 🔭 Atualmente estou trabalhando como Dev Full Stack (PHP, SQL SERVER, Vue);
-- 🌱 Estou estudando React e Node simultâneamente;
+- 🔭 Atualmente estou trabalhando como Dev Full Stack (PHP, SQL Server, Vue);
+- 🌱 Estou estudando AWS e .NET;
 - ⚡ Amo animais, vídeo games, leitura e futebol.
