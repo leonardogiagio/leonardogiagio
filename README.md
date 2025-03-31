@@ -30,5 +30,5 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 
 ## 👦🏻 Curiosidades
 - 🔭 Atualmente estou trabalhando como Dev Full Stack (PHP, SQL Server, Vue);
-- 🌱 Estou estudando AWS e .NET;
+- 🌱 Estou estudando AWS e Java;
 - ⚡ Amo animais, vídeo games, leitura e futebol.
