@@ -15,9 +15,8 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 ## 👩🏻‍💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardogiagio&layout=compact&theme=radical)](https://github.com/leonardogiagio/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogiagio&layout=compact)
 
-
+![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
