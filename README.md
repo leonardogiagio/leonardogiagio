@@ -17,8 +17,8 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardogiagio&layout=compact&theme=radical)](https://github.com/leonardogiagio/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MYSQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=blue)
-![POSTGRESQL](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
+![MYSQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
