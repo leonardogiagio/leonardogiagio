@@ -14,7 +14,6 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 
 ## 👩🏻‍💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardogiagio&layout=compact&theme=radical)](https://github.com/leonardogiagio/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
@@ -32,6 +31,7 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogiagio&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leonardogiagio&theme=tokyonight)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leonardogiagio&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
