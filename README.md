@@ -31,7 +31,7 @@ Atuo como Desenvolvedor Fullstack e sou apaixonado pelo que faço e tecnologias 
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogiagio&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leonardogiagio&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leonardogiagio)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
 - 🔭 Atualmente estou trabalhando como Dev Full Stack (PHP, SQL Server, Vue);
